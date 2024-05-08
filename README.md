@@ -1,6 +1,6 @@
-# Polygon CDK Kurtosis Package
+# LAIR3 layer 3 blockchain deployment kit
 
-A [Kurtosis](https://github.com/kurtosis-tech/kurtosis) package that deploys a private, portable, and modular Polygon CDK devnet.
+A [Kurtosis](https://github.com/kurtosis-tech/kurtosis) package that deploys a private, portable, and modular BDK devnet.
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ You will also need a few other tools. Run this script to check you have the requ
 sh scripts/tool_check.sh
 ```
 
-Once that is good and installed on your system, you can run the following command to deploy the complete CDK stack locally.
+Once that is good and installed on your system, you can run the following command to deploy the complete BDK stack locally.
 
 This process typically takes around ten minutes.
 
@@ -100,11 +100,6 @@ kurtosis clean --all
 ```
 
 For more information about the CDK stack and setting up Kurtosis, visit our [documentation](https://docs.polygon.technology/cdk/) on the Polygon Knowledge Layer.
-
-## Contact
-
-- For technical issues, join our [Discord](https://discord.gg/0xpolygondevs).
-- For documentation issues, raise an issue on the published live doc at [our main repo](https://github.com/0xPolygon/polygon-docs).
 
 ## License
 
