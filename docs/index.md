@@ -26,7 +26,7 @@ The diagram below shows how CDK stack components may interact with each other an
 
 The [quick start documents](quickstart/deploy-stack.md) show you how to deploy a private, portable, and modular Polygon-SDK as Kustosis-CDK developer stack on [Kurtosis](https://github.com/kurtosis-tech/kurtosis).<br />
 
-It is apparent that the current blockchain architecture requires layer3 to scale for increased throughput as a payment, gaming and AI layer to continue progressive innovation in the blockchain cryptosphere. LAIR3-BDK has fixed the panopticon integration and extensively documented this project with .md files for markdown language.
+It is apparent that the current blockchain architecture requires layer3 to scale for increased throughput as a payment, gaming and AI layer to continue progressive innovation in the blockchain cryptosphere. LAIR3-BDK has fixed the panopticon integration and extensively documented this project with .md files for markdown language. Use at your own risk. All settings are set to development by default. Production builds are on you.
 
 <br/>
 
