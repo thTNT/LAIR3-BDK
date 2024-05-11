@@ -1,6 +1,6 @@
-# LAIR3 layer 3 blockchain deployment kit
+# LAIR3 layer 3 Blockchain Deployment Kit
 
-A [Kurtosis](https://github.com/kurtosis-tech/kurtosis) package that deploys a private, portable, and modular BDK devnet.
+A [Kurtosis](https://github.com/kurtosis-tech/kurtosis) package that deploys a private, portable, and modular Blockchain Deployment Kit BDK devnet.
 
 ## Getting Started
 
