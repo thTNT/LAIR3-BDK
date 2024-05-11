@@ -27,6 +27,7 @@ echo_ts() {
 }
 
 wait_for_rpc_to_be_available
+```
 
 Waits for the specified RPC URL to become available.
 
