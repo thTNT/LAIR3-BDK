@@ -41,7 +41,7 @@ Miscellaneous
     cleanerPollingPeriod: Interval in seconds to poll for cleanup tasks.
     requestsPersistence: Time in seconds for which requests persist.
 
-# permissionless-node overview and challenges for configuration of executor-config.json
+# permissionless-node overview and configuration challenges
 A permissionless node is a type of node within a blockchain network that allows anyone to join and participate without requiring prior authorization or permission. It aligns with the core principles of decentralization and open networks. Here are the key characteristics and benefits:
 
     Open Access: Any individual or organization can connect to the network, run a node, and participate in validating transactions or maintaining the network.
