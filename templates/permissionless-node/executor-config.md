@@ -41,25 +41,3 @@ Miscellaneous
     cleanerPollingPeriod: Interval in seconds to poll for cleanup tasks.
     requestsPersistence: Time in seconds for which requests persist.
 
-# permissionless-node summary
-A permissionless node is a type of node within a blockchain network that allows anyone to join and participate without requiring prior authorization or permission. It aligns with the core principles of decentralization and open networks. Here are the key characteristics and benefits:
-
-    Open Access: Any individual or organization can connect to the network, run a node, and participate in validating transactions or maintaining the network.
-
-    Decentralization: Permissionless nodes foster a more decentralized network because they enable wider participation. This reduces the control any single entity has over the network.
-
-    Consensus Participation: Nodes can participate in the consensus mechanism, whether it is Proof of Work (PoW), Proof of Stake (PoS), or another protocol, to validate transactions and add them to the blockchain.
-
-    Security and Transparency: The decentralized nature of permissionless nodes increases security by reducing single points of failure and promoting transparency. Nodes validate each other, making it harder for malicious actors to compromise the network.
-
-    Incentives: Participants running permissionless nodes often receive rewards or incentives, such as transaction fees or block rewards, encouraging continued involvement.
-
-    Examples:
-        Bitcoin: Anyone can download a Bitcoin client, set up a node, and join the network to validate transactions or mine new blocks.
-        Ethereum: Similar to Bitcoin, individuals can join the Ethereum network and run a node without permission.
-
-Challenges
-
-    Scalability: Permissionless networks can struggle with scalability because they must maintain high security and decentralization levels.
-
-    Sybil Attacks: A malicious actor could potentially join the network with multiple identities, impacting the consensus mechanism.
